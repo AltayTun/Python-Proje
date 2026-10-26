@@ -121,3 +121,4 @@ for kat in stoklar:
             if urun["ad"] == alinan_urun:
                 urun["adet"] -= alinan_adet
                 print("Kalan stok:", urun["adet"])
+
